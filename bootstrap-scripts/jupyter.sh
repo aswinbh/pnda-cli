@@ -20,7 +20,6 @@ hadoop:
   role: EDGE
 roles:
   - jupyter
-  - flink
 EOF
 
 cat >> /etc/salt/minion <<EOF
